@@ -1,0 +1,9 @@
+Esta pasta deve conter os arquivos relacionados ao banco de dados
+--Diagramas de entidades relacionais
+--Scripts para o banco de dados
+--Configuração do banco de dados
+	--Banco de dados utilizado: Mysql 5.7
+	--usuário: clickmed
+	--senha: ClickMed@2019
+	
+	
